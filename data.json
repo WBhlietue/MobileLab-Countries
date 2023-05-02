@@ -1,0 +1,22 @@
+[
+    {
+        "userName":"admin",
+        "pass":"admin"
+    },
+    {
+        "userName":"root",
+        "pass":"root"
+    },
+    {
+        "userName":"test",
+        "pass":"test"
+    },
+    {
+        "userName":"haku",
+        "pass":"haku"
+    },
+    {
+        "userName":"user",
+        "pass":"user"
+    }
+]
